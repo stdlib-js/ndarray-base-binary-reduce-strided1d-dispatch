@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-18)
+## Unreleased (2025-12-26)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`daf2cc8`](https://github.com/stdlib-js/stdlib/commit/daf2cc847c77117f4c5ae4e5e99ae224bb592edc) - **refactor:** add writable parameter to `ndarray/base/spread-dimensions` [(#9370)](https://github.com/stdlib-js/stdlib/pull/9370) _(by Muhammad Haris, Athan Reines)_
+-   [`41bc320`](https://github.com/stdlib-js/stdlib/commit/41bc320db9372557b8eb3341169981c96450b3bf) - **chore:** add alias for doctest lint rule _(by Philipp Burckhardt)_
 -   [`0e246db`](https://github.com/stdlib-js/stdlib/commit/0e246db52925591bd3b2ea56ac34ec5e40da65e3) - **refactor:** resolve dtype string and update documented type _(by Athan Reines)_
 -   [`5dde2ff`](https://github.com/stdlib-js/stdlib/commit/5dde2ff115443aa143dd19022e5593e022401920) - **refactor:** use extended BLAS utility _(by Athan Reines)_
 -   [`5396232`](https://github.com/stdlib-js/stdlib/commit/539623214add7405c45c70f16ef7ab001f5dc0e0) - **refactor:** use base utility _(by Athan Reines)_
@@ -39,10 +41,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
