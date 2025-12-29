@@ -22,6 +22,10 @@
 
 <details>
 
+-   [`452cc00`](https://github.com/stdlib-js/stdlib/commit/452cc003a69938f9cdce6ed45219f41673af1c1f) - **docs:** update example _(by Athan Reines)_
+-   [`5e87686`](https://github.com/stdlib-js/stdlib/commit/5e87686d428b0ae5570c1f0c56d4c6721b13643d) - **docs:** update examples to use ndarray instance notation _(by Athan Reines)_
+-   [`67fe5f8`](https://github.com/stdlib-js/stdlib/commit/67fe5f8d3c4f7c7bbb322e648d48a462960b4b99) - **docs:** update type _(by Athan Reines)_
+-   [`85d47b6`](https://github.com/stdlib-js/stdlib/commit/85d47b6504ee90577497e26357afa6e63c101df6) - **docs:** update types _(by Athan Reines)_
 -   [`da7ea70`](https://github.com/stdlib-js/stdlib/commit/da7ea70b7b2de281c4c1364fe7dca3ef8ca7085c) - **refactor:** support data type instances _(by Athan Reines)_
 -   [`daf2cc8`](https://github.com/stdlib-js/stdlib/commit/daf2cc847c77117f4c5ae4e5e99ae224bb592edc) - **refactor:** add writable parameter to `ndarray/base/spread-dimensions` [(#9370)](https://github.com/stdlib-js/stdlib/pull/9370) _(by Muhammad Haris, Athan Reines)_
 -   [`41bc320`](https://github.com/stdlib-js/stdlib/commit/41bc320db9372557b8eb3341169981c96450b3bf) - **chore:** add alias for doctest lint rule _(by Philipp Burckhardt)_
