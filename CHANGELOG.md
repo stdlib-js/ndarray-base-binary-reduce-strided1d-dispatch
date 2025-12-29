@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`6c43167`](https://github.com/stdlib-js/stdlib/commit/6c4316733d615b06d301eec89c377838a6b56dd8) - resolve normalized data type
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`6c43167`](https://github.com/stdlib-js/stdlib/commit/6c4316733d615b06d301eec89c377838a6b56dd8) - **fix:** resolve normalized data type _(by Athan Reines)_
 -   [`452cc00`](https://github.com/stdlib-js/stdlib/commit/452cc003a69938f9cdce6ed45219f41673af1c1f) - **docs:** update example _(by Athan Reines)_
 -   [`5e87686`](https://github.com/stdlib-js/stdlib/commit/5e87686d428b0ae5570c1f0c56d4c6721b13643d) - **docs:** update examples to use ndarray instance notation _(by Athan Reines)_
 -   [`67fe5f8`](https://github.com/stdlib-js/stdlib/commit/67fe5f8d3c4f7c7bbb322e648d48a462960b4b99) - **docs:** update type _(by Athan Reines)_
