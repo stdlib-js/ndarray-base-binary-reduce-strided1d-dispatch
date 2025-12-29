@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-26)
+## Unreleased (2025-12-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`da7ea70`](https://github.com/stdlib-js/stdlib/commit/da7ea70b7b2de281c4c1364fe7dca3ef8ca7085c) - **refactor:** support data type instances _(by Athan Reines)_
 -   [`daf2cc8`](https://github.com/stdlib-js/stdlib/commit/daf2cc847c77117f4c5ae4e5e99ae224bb592edc) - **refactor:** add writable parameter to `ndarray/base/spread-dimensions` [(#9370)](https://github.com/stdlib-js/stdlib/pull/9370) _(by Muhammad Haris, Athan Reines)_
 -   [`41bc320`](https://github.com/stdlib-js/stdlib/commit/41bc320db9372557b8eb3341169981c96450b3bf) - **chore:** add alias for doctest lint rule _(by Philipp Burckhardt)_
 -   [`0e246db`](https://github.com/stdlib-js/stdlib/commit/0e246db52925591bd3b2ea56ac34ec5e40da65e3) - **refactor:** resolve dtype string and update documented type _(by Athan Reines)_
